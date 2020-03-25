@@ -9,7 +9,6 @@
     background-color: rgb(228, 228, 228);
     min-height: 96vh;
     padding-bottom: 100px;
-    padding-top: 20px;
   }
   
   .footer {
@@ -24,6 +23,12 @@
     color: #5d5d5d;
     cursor: default;
     margin-bottom: -10px;
+    position: sticky;
+    top: 0;
+    padding: 20px;
+    width: 940px;
+    margin-left: -20px;
+    background-color: rgb(228, 228, 228);
   }
   
   .headerEmpty {
